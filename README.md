@@ -1,4 +1,4 @@
-# vue-buefy-shopping-list-demo
+# vue-shopping-list-demo
 
 > This project is a simple demo about using [Buefy](https://buefy.github.io/#/)
   components in a Vue.js application.
